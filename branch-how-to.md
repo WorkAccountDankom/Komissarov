@@ -8,5 +8,4 @@ $ git checkout <branch_name>
 to rnter the branch.
 After that you can add some files to the branch.
 
-To be continued...
-
+Use common instruction to add files to remote repository.
